@@ -1,794 +1,796 @@
-9         chatter
-1         solemn
-1         wholly
-1         perjure
-1         demise
-1         fairly
-1         significance
-1         manufacture
-1         rabid
-1         deterred
-1         revs
-1         civilian
-1         voltage
-1         kay
-2         demonstrated
-1         wring
-1         bunker
-1         wryly
-1         triumphant
-3         vast
-2         kistiakowsky
-3         faculty
-1         clown
-1         laborers
-1         handled
-5         applauding
-2         murmur
-1         harsh
-1         elated
-1         brass
-1         trash
-3         chuckling
-1         ingenious
-1         wicked
-1         quickening
-3         scuse
-1         scupper
-1         rearview
-1         profound
-2         magnificent
-6         mechanics
-1         spit
-1         sheriff
-1         leslie
-4         goddamn
-2         thermonuclear
-1         vishnu
-1         committed
-1         sympathies
-1         herding
-1         promoting
-1         latitude
-3         engaged
-1         pilot
-1         proposed
-1         tempered
-1         thugs
-1         subside
-1         presidential
-15        strauss
-1         kidnap
-1         excursion
-1         bishop
-1         justified
-1         rumors
-1         batter
-1         prosecute
-1         succinctly
-1         martinis
-2         criticality
-3         damn
-1         deuterium
-1         unnerving
-1         estimating
-1         snorts
-1         semester
-1         calculate
-1         wound
-2         integration
-1         phrased
-1         mary
-1         pal
-1         electrons
-4         loyal
-1         genie
-1         trench
-3         exclaim
-1         convening
-1         burial
-1         fading
-1         von
-1         refugees
-1         shushes
-1         emotionally
-3         gripping
-1         represent
-6         compartmentalization
-4         scruples
-4         humble
-1         pupil
-1         remedy
-1         discipline
-1         stripes
-1         erupting
-1         endorse
-1         pattering
-1         conviction
-1         experimentalists
-2         panting
-2         embrace
-1         desperate
-1         referring
-1         deterrence
-6         surrender
-1         imaginings
-1         adolescent
-1         hamburger
-1         destructive
-2         lenses
-3         petition
-1         stimson
-1         unconscious
-1         initiative
-1         emigrate
-1         alleged
-1         hissing
-1         distinction
-1         tar
-1         infiltration
-1         assent
-4         bohr
-1         siren
-1         fissionable
-1         entrapment
-1         worms
-1         sampled
-1         ppenheimer
-1         barbiturates
-1         manner
-1         librarians
-1         gadget
-1         greets
-1         feasible
-1         blacklisted
-1         plain
-1         fuse
-1         biologist
-2         pride
-1         gloat
-1         straw
-1         chloral
-1         astronomer
-15        suspenseful
-1         uncommitted
-2         mass
-1         mysterious
-1         bang
-1         fell
-4         committee
-1         committing
-1         pining
-2         breath
-1         confronting
-1         prometheus
-1         explicitly
-1         pulses
-1         honeymooned
-1         blew
-1         sidetracked
-36        atomic
-1         unionized
-1         chunk
-1         shelf
-1         conceivably
-1         tension
-2         ouch
-4         welder
-8         fission
-1         diffusion
-2         prosecutor
-4         awful
-1         unjust
-2         bout
-2         shadows
-1         literally
-1         receiving
-1         quoting
-1         inaudible
-1         screams
-1         reflected
-1         renowned
-7         chain
-1         neurotic
-1         disclosure
-6         exhales
-7         uranium
-2         trigger
-1         personnel
-1         arming
-2         camp
-1         memo
-3         mellow
-6         counsel
-1         sake
-1         alienate
-1         quivering
-1         intellectual
-3         sentimental
-2         evacuation
-9         implosion
-1         therefore
-2         derogatory
-1         advised
-1         gotcha
-27        chuckles
-1         handling
-1         somewhat
-1         hint
-1         volumes
-1         tender
-1         psychiatric
-1         procedure
-1         directive
-1         detonated
-3         prophet
-3         chirping
-1         reassure
-1         abundant
-1         trek
-2         definitive
-1         limelight
-6         trial
-1         hostility
-1         unleash
-1         impartial
-1         sabotage
-1         scott
-1         intermediate
-1         merit
-2         affair
-1         egotistical
-1         megatons
-1         invasion
-1         paradoxical
-1         wire
-1         envied
-1         plagued
-1         ideology
-6         pensive
-1         dud
-1         reveal
-1         gavel
-1         dreamt
-1         canyons
-1         retain
-1         neutrality
-4         pash
-1         inhales
-3         tempo
-1         shuddering
-1         sustaining
-1         calculated
-1         accelerate
-1         animus
-1         vindictive
-3         whispers
-1         subordinates
-2         spot
-2         einstein
-1         commandeer
-1         improviser
-1         eaten
-1         questionable
-2         credibility
-1         stimulating
-4         detonate
-2         volpe
-2         plant
-2         desert
-1         illegally
-1         combat
-1         warhead
-1         fellow
-1         hardened
-1         sharply
-1         radioactive
-1         wailing
-1         regrettable
-13        groves
-1         levers
-1         cushions
-3         martyr
-12        applause
-3         spread
-1         reactor
-7         nuclear
-2         protocol
-1         widow
-2         disloyal
-2         atmospheric
-2         fianc
-1         misrepresent
-1         approved
-41        robb
-3         bit
-1         threatens
-1         fame
-1         generate
-1         womanizer
-1         dilettante
-1         founder
-1         interrogate
-2         surveillance
-1         caption
-2         naivete
-1         shitty
-1         sabotaging
-1         mattress
-1         assured
-2         blackett
-1         uncooperative
-1         pronunciation
-3         drown
-3         disquieting
-1         raid
-2         ordeal
-1         harnessing
-1         loudly
-1         improve
-1         clatters
-1         silenced
-1         contingent
-1         warring
-1         quitting
-2         crackling
-1         phrase
-1         transferred
-1         succeeding
-1         brilliant
-2         shushing
-1         thoroughly
-1         presume
-1         boil
-1         saints
-1         embedding
-1         shook
-1         psychological
-1         theft
-5         serber
-1         sour
-1         brokers
-1         disregard
-3         whooshing
-1         troubling
-1         baffling
-1         brutal
-1         knowingly
-1         rubbed
-2         laboratory
-1         overthrown
-1         discreet
-2         mutters
-1         housed
-1         hearty
-1         munitions
-5         chanting
-2         impact
-1         gusting
-1         relay
-1         dock
-1         mesa
-2         massive
-1         glorious
-1         unionize
-7         intensifying
-1         insincere
-1         grad
-2         fought
-1         shattering
-4         mcgee
-4         unsettling
-2         renewal
-1         exponential
-1         tolling
-1         ore
-1         upstaged
-2         discretion
-1         envisaged
-2         intermediary
-1         extensive
-3         lips
-1         whooping
-1         darling
-1         outlive
-4         reputation
-2         neutral
-4         qualms
-1         promised
-1         casualties
-1         pillar
-2         smash
-1         shipment
-1         raise
-1         bet
-1         truthful
-4         court
-1         assurance
-2         arsenal
-1         sniffling
-1         illustrious
-1         precedes
-1         prestige
-2         horns
-2         faint
-2         furnace
-1         tow
-1         fruitless
-1         scorpions
-1         confronted
-1         institutions
-1         lettin
-1         troubled
-1         radium
-1         landlady
-1         intuitive
-1         authorization
-2         destruction
-1         brooding
-1         essentially
-1         pilloried
-2         liaison
-2         interrogated
-2         tongue
-1         jarring
-2         whispering
-1         moderator
-1         sought
-1         reductive
-1         awfully
-1         admirer
-1         clinking
-1         grim
-7         isotopes
-16        stomping
-1         theorists
-1         steel
-1         theoretical
-1         gallows
-16        senator
-1         contracts
-1         rejected
-1         shatters
-1         humiliated
-1         expend
-13        throat
-1         diplomatic
-1         accusing
-2         firestorm
-1         emitted
-1         pastore
-1         tactics
-1         guru
-1         feasibility
-3         cooperation
-2         hornig
-4         charlotte
-6         secretary
-3         smacks
-1         nuclei
-1         scrape
-2         gordon
-1         supposing
-3         nominee
-2         spoke
-1         messed
-1         liberal
-1         beans
-2         lowly
-1         culmination
-2         shudders
-1         prestigious
-6         rhythmic
-1         advise
-1         influencing
-3         rousing
-1         mudbank
-1         disinterested
-1         crap
-1         radius
-3         fades
-1         revelation
-1         guilt
-1         defense
-2         humiliation
-2         stuff
-2         holdouts
-1         determining
-1         sobbing
-1         concessions
-1         confirmation
-1         mattresses
-1         brigades
-3         appeal
-1         exert
-1         disapproval
-2         molecules
-2         cabinet
-2         viable
-1         shabby
-1         provoke
-1         madhouse
-1         crushing
-1         escalating
-3         sniffs
-2         embraced
-1         catastrophic
-1         stirred
-1         gates
-1         likened
-2         countertop
-1         radical
-1         advance
-1         press
-1         beakers
-1         bureaucratic
-1         digest
-1         upstanding
-1         crybaby
-1         formulating
-1         ran
-2         evans
-1         falls
-1         medium
-1         refining
-1         ignite
-1         medal
-4         guidelines
-2         recess
-1         bite
-1         ample
-1         hounded
-1         refined
-1         insistence
-4         brief
-2         impractical
-1         consul
-3         prosecution
-1         moaning
-1         renew
-1         assisted
-4         muffled
-4         testimony
-1         owe
-1         philosophy
-1         metallic
-2         revolution
-2         plates
-1         marry
-1         pond
-1         emerges
-1         unalterably
-6         colonel
-2         dice
-1         rites
-1         pronounced
-1         hydrate
-13        cheering
-1         schoolboy
-1         unthinkable
-1         preyed
-1         stirring
-2         bull
-1         divine
-1         striped
-2         ignition
-1         admissible
-2         lieutenant
-1         upbeat
-1         gamble
-1         priorities
-1         commissioner
-1         determination
-1         sniffles
-1         prudent
-1         trashcan
-4         incident
-1         commission
-1         dissent
-24        rumbling
-1         referred
-1         skeletons
-1         possession
-3         fusion
-1         treason
-1         slippery
-1         academia
-1         unambiguous
-18        hydrogen
-1         pills
-2         homesick
-1         gaseous
-1         ticking
-1         advocated
-2         transcript
-1         graduate
-1         napping
-1         brilliance
-1         fear
-1         theatrical
-1         receive
-1         resent
-3         swallows
-1         modest
-14        scoffs
-2         density
-1         curse
-2         spool
-1         tremendous
-1         vindictiveness
-10        moral
-3         presumably
-1         rip
-5         detonation
-3         slams
-1         lied
-1         prosecuting
-2         absurd
-1         commitment
-1         downplaying
-1         wisest
-1         cult
-1         pinned
-1         compact
-1         ace
-2         ranch
-1         recruit
-1         betting
-1         reasonably
-1         beaten
-2         pivot
-5         somber
-1         west
-1         reforming
-6         scattered
-1         nope
-1         bound
-1         jurisdiction
-1         morgan
-4         clamoring
-1         civilized
-3         loyalty
-1         disdain
-1         uncontrolled
-3         detonators
-1         screw
-1         pulsing
-1         condon
-1         misrepre
-2         magnuson
-5         indictment
-1         evidentiary
-1         gasp
-1         genius
-1         subtle
-1         misinformed
-1         conflict
-1         crowing
-3         department
-5         soldier
-1         expense
-2         honking
-1         skinnier
-1         clattering
-1         saloon
-1         colitis
-1         dredged
-3         violent
-2         oath
-1         graphite
-1         kangaroo
-1         potions
-1         attitude
-4         atom
-2         espionage
-1         acquaintance
-1         bandy
-10        chevalier
-6         aide
-1         policies
-5         grunts
-1         dogma
-1         weeping
-1         salmon
-2         howling
-1         slightest
-2         unanimous
-1         fantasy
-1         unkeepable
-4         indistinctly
-1         ambitious
-1         underestimate
-1         exclusively
-1         cyclotron
-1         channel
-1         mortals
-1         oop
-1         pro
-2         wistful
-2         cock
-2         integrity
-1         wives
-1         consciously
-1         weatherman
-2         lack
-1         suspicions
-1         divisional
-27        sighs
-1         earnest
-1         peering
-1         mincemeat
-1         intriguing
-1         circling
-1         paradox
-1         semitism
-1         marshall
-1         solicit
-1         speculation
-1         sufficiently
-1         barely
-1         predetermined
-2         convicting
-1         horrify
-2         neutron
-1         musical
-1         genocide
-1         favorable
-1         huffs
-1         testified
-1         roger
-1         immature
-1         accuse
-1         dings
-1         mayor
-2         formality
-2         naive
-2         thrilling
-1         controversy
-1         leap
-1         vicious
-1         exile
-5         allies
-1         boot
-1         capacity
-1         ashamed
-1         congressional
-2         candor
-1         rad
-2         conclusive
-1         consistent
-2         disturbing
-1         brat
-1         commander
-2         wiggle
-1         shovel
-1         disembodied
-1         volt
-1         causality
-1         awkwardly
-1         dynamite
-1         sustained
-1         whistling
-1         abort
-1         rooster
-1         advisory
-1         prima
-1         exceedingly
-8         teller
-8         plutonium
-10        explosion
-2         persistent
-3         testify
-1         laid
-1         celebrate
-2         apparatus
-1         presumption
-2         nucleus
-1         cart
-1         accusation
-4         kilotons
-1         consult
-1         barber
-2         commute
-1         authored
-1         devastated
+chatter
+solemn
+wholly
+perjure
+demise
+fairly
+significance
+manufacture
+rabid
+deterred
+revs
+civilian
+voltage
+kay
+demonstrated
+wring
+bunker
+wryly
+triumphant
+vast
+kistiakowsky
+faculty
+clown
+laborers
+handled
+applauding
+murmur
+harsh
+elated
+brass
+trash
+chuckling
+ingenious
+wicked
+quickening
+scuse
+scupper
+rearview
+profound
+magnificent
+mechanics
+spit
+sheriff
+leslie
+goddamn
+thermonuclear
+vishnu
+committed
+sympathies
+herding
+promoting
+latitude
+engaged
+pilot
+proposed
+tempered
+thugs
+subside
+presidential
+strauss
+kidnap
+excursion
+bishop
+justified
+rumors
+batter
+prosecute
+succinctly
+martinis
+criticality
+damn
+deuterium
+unnerving
+estimating
+snorts
+semester
+calculate
+wound
+integration
+phrased
+mary
+pal
+electrons
+loyal
+genie
+trench
+exclaim
+convening
+burial
+fading
+von
+refugees
+shushes
+emotionally
+gripping
+represent
+compartmentalization
+scruples
+humble
+pupil
+remedy
+discipline
+stripes
+erupting
+endorse
+pattering
+conviction
+experimentalists
+panting
+embrace
+desperate
+referring
+deterrence
+surrender
+imaginings
+adolescent
+hamburger
+destructive
+lenses
+petition
+stimson
+unconscious
+initiative
+emigrate
+alleged
+hissing
+distinction
+tar
+infiltration
+assent
+bohr
+siren
+fissionable
+entrapment
+worms
+sampled
+ppenheimer
+barbiturates
+manner
+librarians
+gadget
+greets
+feasible
+blacklisted
+plain
+fuse
+biologist
+pride
+gloat
+straw
+chloral
+astronomer
+suspenseful
+uncommitted
+mass
+mysterious
+bang
+fell
+committee
+committing
+pining
+breath
+confronting
+prometheus
+explicitly
+pulses
+honeymooned
+blew
+sidetracked
+atomic
+unionized
+chunk
+shelf
+conceivably
+tension
+ouch
+welder
+fission
+diffusion
+prosecutor
+awful
+unjust
+bout
+shadows
+literally
+receiving
+quoting
+inaudible
+screams
+reflected
+renowned
+chain
+neurotic
+disclosure
+exhales
+uranium
+trigger
+personnel
+arming
+camp
+memo
+mellow
+
+counsel
+sake
+alienate
+quivering
+intellectual
+sentimental
+evacuation
+implosion
+therefore
+derogatory
+advised
+gotcha
+chuckles
+handling
+somewhat
+hint
+volumes
+tender
+psychiatric
+procedure
+directive
+detonated
+prophet
+chirping
+reassure
+abundant
+trek
+definitive
+limelight
+trial
+hostility
+unleash
+impartial
+sabotage
+scott
+intermediate
+merit
+affair
+egotistical
+megatons
+invasion
+paradoxical
+wire
+envied
+plagued
+ideology
+pensive
+dud
+reveal
+gavel
+dreamt
+canyons
+retain
+neutrality
+pash
+inhales
+tempo
+shuddering
+sustaining
+calculated
+accelerate
+animus
+vindictive
+whispers
+subordinates
+spot
+einstein
+commandeer
+improviser
+eaten
+questionable
+credibility
+stimulating
+detonate
+volpe
+plant
+desert
+illegally
+combat
+warhead
+fellow
+hardened
+sharply
+radioactive
+wailing
+regrettable
+groves
+levers
+cushions
+martyr
+applause
+spread
+reactor
+nuclear
+protocol
+widow
+disloyal
+atmospheric
+fianc
+misrepresent
+approved
+robb
+bit
+threatens
+fame
+generate
+womanizer
+dilettante
+founder
+interrogate
+surveillance
+caption
+naivete
+shitty
+sabotaging
+mattress
+assured
+blackett
+uncooperative
+pronunciation
+drown
+disquieting
+raid
+ordeal
+harnessing
+loudly
+improve
+clatters
+silenced
+contingent
+warring
+quitting
+crackling
+phrase
+transferred
+succeeding
+brilliant
+shushing
+thoroughly
+presume
+boil
+saints
+embedding
+shook
+psychological
+theft
+serber
+sour
+brokers
+disregard
+whooshing
+troubling
+baffling
+brutal
+knowingly
+rubbed
+laboratory
+overthrown
+discreet
+mutters
+housed
+hearty
+munitions
+chanting
+impact
+gusting
+relay
+dock
+mesa
+massive
+glorious
+unionize
+intensifying
+insincere
+grad
+fought
+shattering
+mcgee
+unsettling
+renewal
+exponential
+tolling
+ore
+upstaged
+discretion
+envisaged
+intermediary
+extensive
+lips
+whooping
+darling
+outlive
+reputation
+neutral
+qualms
+promised
+casualties
+pillar
+smash
+shipment
+raise
+
+bet
+truthful
+court
+assurance
+arsenal
+sniffling
+illustrious
+precedes
+prestige
+horns
+faint
+furnace
+tow
+fruitless
+scorpions
+confronted
+institutions
+lettin
+troubled
+radium
+landlady
+intuitive
+authorization
+destruction
+brooding
+essentially
+pilloried
+liaison
+interrogated
+tongue
+jarring
+whispering
+moderator
+sought
+reductive
+awfully
+admirer
+clinking
+grim
+isotopes
+stomping
+theorists
+steel
+theoretical
+gallows
+senator
+contracts
+rejected
+shatters
+humiliated
+expend
+throat
+diplomatic
+accusing
+firestorm
+emitted
+pastore
+tactics
+guru
+feasibility
+cooperation
+hornig
+charlotte
+secretary
+smacks
+nuclei
+scrape
+gordon
+supposing
+nominee
+spoke
+messed
+liberal
+beans
+lowly
+culmination
+shudders
+prestigious
+rhythmic
+advise
+influencing
+rousing
+mudbank
+disinterested
+crap
+radius
+fades
+revelation
+guilt
+defense
+humiliation
+stuff
+holdouts
+determining
+sobbing
+concessions
+confirmation
+mattresses
+brigades
+appeal
+exert
+disapproval
+molecules
+cabinet
+viable
+shabby
+provoke
+madhouse
+crushing
+escalating
+sniffs
+embraced
+catastrophic
+stirred
+gates
+likened
+countertop
+radical
+advance
+press
+beakers
+bureaucratic
+digest
+upstanding
+crybaby
+formulating
+ran
+evans
+falls
+medium
+refining
+ignite
+medal
+guidelines
+recess
+bite
+ample
+hounded
+refined
+insistence
+brief
+impractical
+consul
+prosecution
+moaning
+renew
+assisted
+muffled
+testimony
+owe
+philosophy
+metallic
+revolution
+plates
+marry
+pond
+emerges
+unalterably
+colonel
+dice
+rites
+pronounced
+hydrate
+cheering
+schoolboy
+unthinkable
+preyed
+stirring
+bull
+divine
+striped
+ignition
+admissible
+lieutenant
+upbeat
+gamble
+priorities
+commissioner
+determination
+sniffles
+prudent
+trashcan
+incident
+commission
+dissent
+rumbling
+referred
+skeletons
+possession
+fusion
+treason
+slippery
+academia
+unambiguous
+hydrogen
+pills
+homesick
+gaseous
+ticking
+advocated
+transcript
+graduate
+napping
+brilliance
+fear
+theatrical
+receive
+resent
+swallows
+modest
+scoffs
+density
+curse
+spool
+tremendous
+vindictiveness
+moral
+presumably
+rip
+detonation
+slams
+lied
+prosecuting
+absurd
+commitment
+downplaying
+wisest
+cult
+pinned
+compact
+ace
+ranch
+recruit
+betting
+reasonably
+beaten
+pivot
+somber
+west
+reforming
+scattered
+nope
+bound
+jurisdiction
+morgan
+clamoring
+civilized
+loyalty
+disdain
+uncontrolled
+detonators
+screw
+pulsing
+condon
+misrepre
+magnuson
+indictment
+evidentiary
+gasp
+genius
+subtle
+misinformed
+conflict
+crowing
+department
+soldier
+expense
+honking
+skinnier
+clattering
+saloon
+colitis
+dredged
+violent
+oath
+graphite
+kangaroo
+potions
+attitude
+atom
+espionage
+acquaintance
+bandy
+chevalier
+aide
+policies
+grunts
+dogma
+weeping
+salmon
+howling
+slightest
+unanimous
+fantasy
+unkeepable
+indistinctly
+ambitious
+underestimate
+exclusively
+cyclotron
+channel
+mortals
+oop
+pro
+wistful
+cock
+integrity
+wives
+consciously
+weatherman
+lack
+suspicions
+divisional
+sighs
+earnest
+peering
+mincemeat
+intriguing
+circling
+paradox
+semitism
+marshall
+solicit
+speculation
+sufficiently
+barely
+predetermined
+convicting
+horrify
+neutron
+musical
+genocide
+favorable
+huffs
+testified
+roger
+immature
+accuse
+dings
+mayor
+formality
+naive
+thrilling
+controversy
+leap
+vicious
+exile
+allies
+boot
+capacity
+ashamed
+congressional
+candor
+rad
+conclusive
+consistent
+disturbing
+brat
+commander
+wiggle
+shovel
+disembodied
+volt
+causality
+awkwardly
+dynamite
+sustained
+whistling
+abort
+rooster
+advisory
+prima
+exceedingly
+teller
+plutonium
+explosion
+persistent
+testify
+laid
+celebrate
+apparatus
+presumption
+nucleus
+cart
+accusation
+kilotons
+consult
+barber
+commute
+authored
+devastated

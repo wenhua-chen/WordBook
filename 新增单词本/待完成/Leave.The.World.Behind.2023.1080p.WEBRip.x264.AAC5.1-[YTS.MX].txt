@@ -1,313 +1,313 @@
-3         bat
-1         roster
-1         obsessed
-1         flavors
-3         invasion
-4         tanker
-1         generator
-1         spoiled
-1         extremists
-1         supplies
-2         barter
-1         thingy
-1         pilot
-2         begging
-1         conspiracy
-1         faith
-1         wiz
-1         reconcile
-1         missile
-2         poke
-1         vibe
-1         burst
-1         reruns
-1         coop
-1         handyman
-1         sooner
-2         paranoid
-1         buzzkill
-1         vomiting
-1         nonplussed
-1         crippled
-1         stuck
-1         stuff
-1         topple
-1         abso
-3         knee
-1         aaron
-2         expressway
-2         bit
-1         glares
-1         hall
-3         ugh
-1         misinformation
-2         bet
-1         exploring
-1         dealership
-1         yelling
-1         chopper
-1         conversion
-1         snuck
-1         heck
-1         bearded
-1         tat
-1         impressive
-2         sonic
-1         cuddle
-1         scaring
-1         emergencies
-1         straw
-1         shelf
-1         cabinet
-1         cicadas
-1         groundings
-1         contradiction
-1         canned
-1         steal
-1         literally
-1         severely
-1         piling
-2         revenge
-1         drowns
-1         groceries
-3         barely
-2         awful
-1         misery
-1         doomsday
-1         psyched
-1         huxleys
-1         throat
-1         preferred
-2         encourage
-1         comrade
-1         mugs
-1         dearly
-1         lying
-1         commotion
-1         cyber
-2         router
-1         synchronized
-1         scarier
-1         bluffing
-1         throughout
-1         sexually
-1         soiree
-1         omen
-1         mess
-1         dummy
-1         pin
-1         dumb
-1         whereabouts
-3         flight
-1         donezo
-1         impacting
-1         fart
-1         steady
-2         sunblock
-1         tidbit
-1         paralyzed
-1         bucks
-1         terrified
-1         symptom
-1         stocking
-1         proclaimed
-1         fame
-1         opps
-6         cease
-1         finale
-1         suspicion
-1         wander
-1         desert
-1         coup
-1         crank
-1         glowing
-5         vacation
-1         bachelorette
-1         overwhelming
-1         buddy
-3         jazz
-1         doled
-1         gibberish
-6         fell
-1         hassle
-1         hamlet
-1         produces
-1         reboot
-1         beaut
-1         clogged
-1         booze
-1         undertow
-1         eliminate
-2         bunker
-1         golly
-1         maneuver
-1         tub
-1         brink
-1         vape
-1         blocked
-1         rental
-1         stash
-1         preconceived
-1         poking
-1         upping
-1         snark
-1         sorkin
-1         motive
-1         tripped
-1         bathtubs
-1         rational
-1         fall
-1         awakening
-1         clich
-1         isolation
-3         contractor
-1         coroner
-1         locking
-2         episode
-1         atom
-2         bud
-1         boo
-1         sucked
-1         soaking
-1         covert
-1         reflection
-1         workforce
-1         hacked
-5         weird
-2         hush
-1         govern
-1         shadowy
-1         celebrity
-5         stage
-1         pour
-2         meltdown
-1         credit
-1         ladder
-1         ignoring
-1         dissimilar
-1         nav
-1         explosion
-2         chatter
-1         novella
-1         beamed
-1         wobbly
-2         rowboat
-1         privately
-1         sneak
-1         catastrophic
-2         promised
-1         verve
-1         cursing
-1         mistrustful
-1         destabilize
-2         figured
-1         college
-1         suite
-2         thrill
-1         nosedive
-1         figuring
-1         sector
-1         tenacity
-1         horrifying
-2         shelter
-1         harmony
-1         essence
-1         maddening
-1         crystal
-1         tethering
-1         grateful
-1         misled
-1         afoot
-1         fashioned
-3         symphony
-1         windy
-1         hellish
-1         mythology
-1         signature
-1         pee
-1         goddamn
-1         diagram
-1         commission
-2         sirens
-1         prosper
-1         speculate
-1         unannounced
-3         gon
-4         hackers
-1         lutely
-1         napping
-1         crashing
-1         batteries
-1         swear
-1         mass
-2         cabal
-1         liquor
-3         garage
-1         outset
-1         worm
-1         claim
-1         campaigns
-1         lamp
-1         burgers
-1         jammed
-1         cab
-1         prickly
-1         fallout
-1         cigars
-1         handful
-1         scam
-1         doubters
-4         flamingos
-1         constantly
-1         expense
-1         gear
-1         contracting
-1         improvised
-1         dresser
-1         worships
-1         squirrels
-4         shed
-1         bold
-1         hangover
-1         plant
-1         pray
-13        blackout
-3         delusion
-1         surgery
-1         pigeons
-1         solstice
-1         dysfunctional
-1         primed
-1         kinda
-1         survivalist
-1         nostalgic
-3         vehicle
-1         soliloquy
-1         badder
-1         sweetie
-2         cocktail
-1         haunting
-1         tick
-1         deaf
-1         funnier
-1         sandford
-3         grinding
-2         outage
-1         kettle
-1         brat
-1         disturbed
-1         dude
-7         deer
-1         molest
-1         freaking
-1         wha
-1         vacay
-1         dumbass
-1         pamphlets
-1         spread
-2         porch
-3         defense
-1         sauced
-1         twisted
-1         beliefs
-1         compliment
+bat
+roster
+obsessed
+flavors
+invasion
+tanker
+generator
+spoiled
+extremists
+supplies
+barter
+thingy
+pilot
+begging
+conspiracy
+faith
+wiz
+reconcile
+missile
+poke
+vibe
+burst
+reruns
+coop
+handyman
+sooner
+paranoid
+buzzkill
+vomiting
+nonplussed
+crippled
+stuck
+stuff
+topple
+abso
+knee
+aaron
+expressway
+bit
+glares
+hall
+ugh
+misinformation
+bet
+exploring
+dealership
+yelling
+chopper
+conversion
+snuck
+heck
+bearded
+tat
+impressive
+sonic
+cuddle
+scaring
+emergencies
+straw
+shelf
+cabinet
+cicadas
+groundings
+contradiction
+canned
+steal
+literally
+severely
+piling
+revenge
+drowns
+groceries
+barely
+awful
+misery
+doomsday
+psyched
+huxleys
+throat
+preferred
+encourage
+comrade
+mugs
+dearly
+lying
+commotion
+cyber
+router
+synchronized
+scarier
+bluffing
+throughout
+sexually
+soiree
+omen
+mess
+dummy
+pin
+dumb
+whereabouts
+flight
+donezo
+impacting
+fart
+steady
+sunblock
+tidbit
+paralyzed
+bucks
+terrified
+symptom
+stocking
+proclaimed
+fame
+opps
+cease
+finale
+suspicion
+wander
+desert
+coup
+crank
+glowing
+vacation
+bachelorette
+overwhelming
+buddy
+jazz
+doled
+gibberish
+fell
+hassle
+hamlet
+produces
+reboot
+beaut
+clogged
+booze
+undertow
+eliminate
+bunker
+golly
+maneuver
+tub
+brink
+vape
+blocked
+rental
+stash
+preconceived
+poking
+upping
+snark
+sorkin
+motive
+tripped
+bathtubs
+rational
+fall
+awakening
+clich
+isolation
+contractor
+coroner
+locking
+episode
+atom
+bud
+boo
+sucked
+soaking
+covert
+reflection
+workforce
+hacked
+weird
+hush
+govern
+shadowy
+celebrity
+stage
+pour
+meltdown
+credit
+ladder
+ignoring
+dissimilar
+nav
+explosion
+chatter
+novella
+beamed
+wobbly
+rowboat
+privately
+sneak
+catastrophic
+promised
+verve
+cursing
+mistrustful
+destabilize
+figured
+college
+suite
+thrill
+nosedive
+figuring
+sector
+tenacity
+horrifying
+shelter
+harmony
+essence
+maddening
+crystal
+tethering
+grateful
+misled
+afoot
+fashioned
+symphony
+windy
+hellish
+mythology
+signature
+pee
+goddamn
+diagram
+commission
+sirens
+prosper
+speculate
+unannounced
+gon
+hackers
+lutely
+napping
+crashing
+batteries
+swear
+mass
+cabal
+liquor
+garage
+outset
+worm
+claim
+campaigns
+lamp
+burgers
+jammed
+cab
+prickly
+fallout
+cigars
+handful
+scam
+doubters
+flamingos
+constantly
+expense
+gear
+contracting
+improvised
+dresser
+worships
+squirrels
+shed
+bold
+hangover
+plant
+pray
+blackout
+delusion
+surgery
+pigeons
+solstice
+dysfunctional
+primed
+kinda
+survivalist
+nostalgic
+vehicle
+soliloquy
+badder
+sweetie
+cocktail
+haunting
+tick
+deaf
+funnier
+sandford
+grinding
+outage
+kettle
+brat
+disturbed
+dude
+deer
+molest
+freaking
+wha
+vacay
+dumbass
+pamphlets
+spread
+porch
+defense
+sauced
+twisted
+beliefs
+compliment
