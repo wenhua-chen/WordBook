@@ -22,7 +22,7 @@ txts = '我的单词本/*'
 mywords = set()
 for txt in glob.glob(txts):
     with open(txt,'r') as f:
-        words = set([word.strip() for word in f.readlines()])
+        words = set([word.strip().lower() for word in f.readlines() if len(word.strip())>0])
     mywords = mywords.union(words)
 
 for file in files:
