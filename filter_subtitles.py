@@ -3,7 +3,7 @@
 # Website: https://wenhua-chen.github.io/
 # Github: https://github.com/wenhua-chen
 # Date: 2023-12-27 12:17:19
-# LastEditTime: 2023-12-30 16:36:48
+# LastEditTime: 2023-12-31 11:32:32
 # Description: 过滤字幕文件, 输出生词本, 计算生词率
 
 from collections import Counter, defaultdict
@@ -69,12 +69,18 @@ for file in files:
     # 输出
     print(f'生词率: {len(words)}/{len(subs)} = {len(words)*100/len(subs):.2f}%')
     s_words = []
+    char3_words = []
     with open(f'{file[:-4]}.txt', 'w') as f:
         for k,v in words:
-            if not k.endswith('s'):
-                f.write(f'{v:<10}{k}\n')
-            else:
+            if len(k) == 3:
+                char3_words.append((k,v))
+            elif k.endswith('s'):
                 s_words.append((k,v))
+            else:
+                f.write(f'{v:<10}{k}\n')
         # 筛选出s结尾的单词, 放在一起
         for k, v in s_words:
+            f.write(f'{v:<10}{k}\n')
+        # 筛选出3个char的单词, 放在一起
+        for k, v in char3_words:
             f.write(f'{v:<10}{k}\n')
