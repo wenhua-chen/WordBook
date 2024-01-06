@@ -3,11 +3,11 @@
 # Website: https://wenhua-chen.github.io/
 # Github: https://github.com/wenhua-chen
 # Date: 2024-01-01 23:21:25
-# LastEditTime: 2024-01-04 17:53:31
+# LastEditTime: 2024-01-06 11:58:26
 # Description: 
 
-origin_file = '新增单词本/待完成/Leave.The.World.Behind.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].txt'
-new_file = '新增单词本/已完成/Leave.The.World.Behind.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].txt'
+origin_file = '新增单词本/待完成/Oppenheimer.2023.1080p.BluRay.x264.AAC5.1.txt'
+new_file = '新增单词本/已完成/Oppenheimer.2023.1080p.BluRay.x264.AAC5.1.txt'
 output_dir = '我的单词本/第一遍'
 
 # 读取
