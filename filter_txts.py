@@ -3,7 +3,7 @@
 # Website: https://wenhua-chen.github.io/
 # Github: https://github.com/wenhua-chen
 # Date: 2023-12-24 10:29:10
-# LastEditTime: 2023-12-31 11:34:13
+# LastEditTime: 2024-01-06 14:29:08
 # Description: 过滤txt文件, 输出生词本(覆盖原文件), 计算生词率
 
 import glob
@@ -18,9 +18,9 @@ else:
     files = [path]
 
 # 我的单词列表
-txts = '我的单词本/*'
+txts = '我的单词本'
 mywords = set()
-for txt in glob.glob(txts):
+for txt in glob.glob(f'{txts}/**/*.txt', recursive=True):
     with open(txt,'r') as f:
         words = set([word.strip().lower() for word in f.readlines() if len(word.strip())>0])
     mywords = mywords.union(words)
