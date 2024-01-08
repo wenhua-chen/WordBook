@@ -3,7 +3,7 @@
 # Website: https://wenhua-chen.github.io/
 # Github: https://github.com/wenhua-chen
 # Date: 2023-12-24 10:29:10
-# LastEditTime: 2024-01-06 14:29:08
+# LastEditTime: 2024-01-08 16:15:15
 # Description: 过滤txt文件, 输出生词本(覆盖原文件), 计算生词率
 
 import glob
@@ -35,6 +35,8 @@ for file in files:
     # 过滤
     new_words = set()
     for word in tqdm(words):
+        if word in mywords:
+            continue
         if word.endswith('s') and ((word[:-1] in words) or (word[:-1] in mywords)):
             continue
         if (word.endswith('ed') or word.endswith('in')) and ((word[:-2] in words) or (word[:-2] in mywords)):

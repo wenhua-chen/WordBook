@@ -3,7 +3,7 @@
 # Website: https://wenhua-chen.github.io/
 # Github: https://github.com/wenhua-chen
 # Date: 2023-12-27 12:17:19
-# LastEditTime: 2023-12-31 11:32:32
+# LastEditTime: 2024-01-08 17:15:19
 # Description: 过滤字幕文件, 输出生词本, 计算生词率
 
 from collections import Counter, defaultdict
@@ -30,9 +30,12 @@ else:
 
 
 # 我的单词列表
-txts = '我的单词本/*'
+txts = '我的单词本'
 mywords = set()
-for txt in glob.glob(txts):
+for txt in glob.glob(f'{txts}/**/*.txt', recursive=True):
+    # 只过滤“完全掌握”中的单词
+    # if '完全掌握' not in txt:
+    #     continue
     with open(txt,'r') as f:
         words = set([word.strip().lower() for word in f.readlines() if len(word.strip())>0])
     mywords = mywords.union(words)
