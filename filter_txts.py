@@ -3,7 +3,7 @@
 # Website: https://wenhua-chen.github.io/
 # Github: https://github.com/wenhua-chen
 # Date: 2023-12-24 10:29:10
-# LastEditTime: 2024-01-08 16:15:15
+# LastEditTime: 2024-01-09 10:47:15
 # Description: 过滤txt文件, 输出生词本(覆盖原文件), 计算生词率
 
 import glob
@@ -13,7 +13,7 @@ from tqdm import tqdm
 # 输入准备
 path = '新增单词本/待完成'
 if os.path.isdir(path):
-    files = glob.glob(f'{path}/*.txt')
+    files = glob.glob(f'{path}/**/*.txt',recursive=True)
 else:
     files = [path]
 

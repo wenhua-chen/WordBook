@@ -24,7 +24,7 @@ nlp = spacy.load('en_core_web_sm')
 path = '字幕文件'
 
 if os.path.isdir(path):
-    files = glob.glob(f'{path}/*.srt')
+    files = glob.glob(f'{path}/**/*.srt',recursive=True)
 else:
     files = [path]
 
