@@ -30,3 +30,6 @@ This is an individual project to maintain and update my vocabulary list
 
 5. 处理流程
     "字幕文件" - "新增单词本" - "我的单词本"
+
+6. 遗留单词
+    '已完成' - '第一遍' - '第二遍'
