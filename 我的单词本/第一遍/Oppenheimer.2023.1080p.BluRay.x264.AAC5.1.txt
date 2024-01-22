@@ -2,7 +2,6 @@ screw
 dissent
 prometheus
 pill
-soldier
 whoosh
 devastated
 neurotic
