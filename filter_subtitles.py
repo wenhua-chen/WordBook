@@ -3,7 +3,7 @@
 # Website: https://wenhua-chen.github.io/
 # Github: https://github.com/wenhua-chen
 # Date: 2023-12-27 12:17:19
-# LastEditTime: 2024-01-08 17:15:19
+# LastEditTime: 2024-01-23 23:48:49
 # Description: 过滤字幕文件, 输出生词本, 计算生词率
 
 from collections import Counter, defaultdict
@@ -15,19 +15,18 @@ import glob
 import spacy
 nlp = spacy.load('en_core_web_sm')
 
-
 # 参数
 # file = '字幕文件/处理中/Oppenheimer.2023.1080p.BluRay.x264.AAC5.1.srt'
 # file = '字幕文件/待处理/Leave.The.World.Behind.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt'
 # file = '字幕文件/待处理/Pulp.Fiction.1994.720p.BluRay.H264.AAC.srt'
 # file = '字幕文件/待处理/Taylor.Swift.The.Eras.Tour.2023.EXTENDED.1080p.WEBRip.x264.AAC5.1.srt'
-path = '字幕文件'
+# path = '字幕文件'
+path = '字幕文件/Friends'
 
 if os.path.isdir(path):
     files = glob.glob(f'{path}/**/*.srt',recursive=True)
 else:
     files = [path]
-
 
 # 我的单词列表
 txts = '我的单词本'
@@ -43,8 +42,15 @@ for txt in glob.glob(f'{txts}/**/*.txt', recursive=True):
 for file in files:
     print('\n'+file)
 
+    # 分析 encoding 类型, 如果SSAFile.load()默认的utf-8失败时使用
+    # from chardet import detect
+    # with open(file, 'rb') as f:
+    #     rawdata = f.read()
+    # encoding = detect(rawdata)['encoding']
+
     # 获得所有字幕
-    subs = SSAFile.load(file)
+    # subs = SSAFile.load(file)
+    subs = SSAFile.load(file, encoding='utf-16') # Friends
     text = '\n'.join([line.plaintext for line in tqdm(subs)])
 
     # 获得专有名词
