@@ -3,11 +3,11 @@
 # Website: https://wenhua-chen.github.io/
 # Github: https://github.com/wenhua-chen
 # Date: 2024-01-01 23:21:25
-# LastEditTime: 2024-01-08 15:52:26
+# LastEditTime: 2024-01-27 18:00:48
 # Description: 
 
-origin_file = '新增单词本/待完成/Oppenheimer.2023.1080p.BluRay.x264.AAC5.1.txt'
-new_file = '新增单词本/已完成/Oppenheimer.2023.1080p.BluRay.x264.AAC5.1.txt'
+origin_file = '新增单词本/待完成/Friends/Friends.S01E01-05.txt'
+new_file = '新增单词本/已完成/friends1-5-全部(226).txt'
 # output_dir = '我的单词本/第一遍'
 
 # 读取

@@ -170,3 +170,8 @@ condition
 translation
 beautifully
 refrigerator
+justice
+musically
+patiently
+cheer
+nerve
