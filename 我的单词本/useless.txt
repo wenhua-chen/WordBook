@@ -488,6 +488,11 @@ bing
 doy
 gyn
 puck
+dal
+nick
+spite
+tee
+lap
 
 
 
