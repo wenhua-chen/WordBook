@@ -17,11 +17,7 @@ nlp = spacy.load('en_core_web_sm')
 
 # 参数
 # file = '字幕文件/处理中/Oppenheimer.2023.1080p.BluRay.x264.AAC5.1.srt'
-# file = '字幕文件/待处理/Leave.The.World.Behind.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt'
-# file = '字幕文件/待处理/Pulp.Fiction.1994.720p.BluRay.H264.AAC.srt'
-# file = '字幕文件/待处理/Taylor.Swift.The.Eras.Tour.2023.EXTENDED.1080p.WEBRip.x264.AAC5.1.srt'
-# path = '字幕文件'
-path = '字幕文件/Under.the.Tuscan.Sun.2003.1080p.BluRay.x264.YIFY.srt'
+path = '字幕文件/The.Idea.Of.You.2024.1080p.WEBRip.x264.AAC5.1.srt'
 
 if os.path.isdir(path):
     files = glob.glob(f'{path}/**/*.srt',recursive=True)

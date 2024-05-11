@@ -494,6 +494,10 @@ spite
 tee
 lap
 
+wee
+sta
+sup
+caf
 
 
 
