@@ -21,7 +21,7 @@ nlp = spacy.load('en_core_web_sm')
 # file = '字幕文件/待处理/Pulp.Fiction.1994.720p.BluRay.H264.AAC.srt'
 # file = '字幕文件/待处理/Taylor.Swift.The.Eras.Tour.2023.EXTENDED.1080p.WEBRip.x264.AAC5.1.srt'
 # path = '字幕文件'
-path = '字幕文件/Friends'
+path = '字幕文件/Under.the.Tuscan.Sun.2003.1080p.BluRay.x264.YIFY.srt'
 
 if os.path.isdir(path):
     files = glob.glob(f'{path}/**/*.srt',recursive=True)
@@ -49,8 +49,8 @@ for file in files:
     # encoding = detect(rawdata)['encoding']
 
     # 获得所有字幕
-    # subs = SSAFile.load(file)
-    subs = SSAFile.load(file, encoding='utf-16') # Friends
+    subs = SSAFile.load(file)
+    # subs = SSAFile.load(file, encoding='utf-16') # Friends
     text = '\n'.join([line.plaintext for line in tqdm(subs)])
 
     # 获得专有名词
