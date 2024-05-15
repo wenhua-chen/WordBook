@@ -1,3 +1,4 @@
+spit
 towel
 bride
 delicate
@@ -84,3 +85,6 @@ painkiller
 jeweller
 bridesmaid
 awake
+herd
+karmic
+glow

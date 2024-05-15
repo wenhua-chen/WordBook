@@ -26,7 +26,6 @@ rose
 mall
 shape
 lover
-blank
 crown
 memory
 fakers
@@ -34,7 +33,6 @@ sunshine
 canceled
 daydream
 born
-seal
 fate
 drag
 past

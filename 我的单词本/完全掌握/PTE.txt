@@ -1,5 +1,4 @@
 manipulate
-intensity
 realist
 scale
 warehouse
@@ -55,7 +54,6 @@ abrupt
 umbrella
 greed
 mite
-frontier
 inadequate
 toddler
 inadequately
