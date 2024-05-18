@@ -8,13 +8,17 @@
 
 import glob
 
-for path in ['我的单词本','我的单词本/第二遍','我的单词本/完全掌握', '新增单词本', '新增单词本/待完成','新增单词本/已完成']:
+for path in ['我的单词本','我的单词本/未掌握','我的单词本/基本掌握', '我的单词本/完全掌握', '新增单词本', '新增单词本/待完成','新增单词本/已完成']:
     files = glob.glob(f'{path}/**/*.txt', recursive=True)
 
     mywords = set()
     for file in files:
+        if 'useless.txt' in file:
+            continue
         with open(file,'r') as f:
             words = set([word.strip().lower() for word in f.readlines() if len(word.strip())>0])
         mywords = mywords.union(words)
-
-    print(f'"{path}"的单词量: {len(mywords)}')
+    if '/' in path:
+        print(f'    {path}的单词量: {len(mywords)}')
+    else:
+        print(f'{path} 的单词量: {len(mywords)}')
