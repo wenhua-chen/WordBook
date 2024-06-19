@@ -11,7 +11,7 @@ import os
 from tqdm import tqdm
 
 # 输入准备
-path = '新增单词本/待完成'
+path = '新增单词本/待完成/alfred_2023.txt'
 if os.path.isdir(path):
     files = glob.glob(f'{path}/**/*.txt',recursive=True)
 else:
@@ -49,9 +49,12 @@ for file in files:
     print(f'生词率: {len(new_words)}/{len(words)} = {len(new_words)*100/len(words):.2f}%')
     s_words = []
     char3_words = []
+    nonsingle_words = []
     with open(f'{file[:-4]}.txt', 'w') as f:
         for word in new_words:
-            if len(word) == 3:
+            if ' ' in word:
+                nonsingle_words.append(word)
+            elif len(word) == 3:
                 char3_words.append(word)
             elif word.endswith('s'):
                 s_words.append(word)
@@ -62,4 +65,7 @@ for file in files:
             f.write(f'{word}\n')
         # 筛选出3个char的单词, 放在一起
         for word in char3_words:
+            f.write(f'{word}\n')
+        # 筛选出大于1个词的短语, 放在一起
+        for word in nonsingle_words:
             f.write(f'{word}\n')

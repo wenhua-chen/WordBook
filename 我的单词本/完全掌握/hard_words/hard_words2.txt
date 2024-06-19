@@ -1,11 +1,9 @@
-pronto
 burro
 pierce
 toe
 pant
 clit
 lagging
-flock
 syrup
 sewing
 hog
@@ -13,7 +11,6 @@ contest
 quack
 rhythm
 ale
-bare
 croak
 pierced
 suspicious
@@ -32,7 +29,6 @@ tore
 ditch
 collar
 dazzling
-flame
 gown
 temptation
 dagger
@@ -63,8 +59,6 @@ evermore
 cynic
 effacing
 cathartic
-bleacher
-contempt
 willow
 flannel
 weave
@@ -81,13 +75,10 @@ flexing
 plaid
 archer
 enchanted
-grinning
 maim
 bracelet
-vacancy
 tale
 tapestry
-shade
 cardigan
 feud
 ransom
@@ -95,7 +86,7 @@ bent
 portal
 altruism
 hollow
-shred
+shade
 heir
 ricochet
 penthouse
@@ -105,13 +96,10 @@ crestfallen
 sandals
 horde
 ceramics
-amethyst
-sapphires
-bunk
 sweater
 nostalgic
-hypocritical
 popsicles
+hypocritical
 blush
 sophomores
 hypocrisy
@@ -119,7 +107,6 @@ paprika
 startled
 trailer
 bailing
-ante
 rarefied
 orgies
 numb
@@ -130,7 +117,6 @@ rogue
 clutter
 plow
 visceral
-taboo
 obligated
 tapestries
 nemesis
@@ -158,7 +144,6 @@ pier
 stud
 buttock
 monologue
-sinister
 nudging
 poppy
 harbinger
@@ -167,7 +152,6 @@ salon
 mint
 interlude
 antique
-giddiness
 sinner
 strand
 pitfall
@@ -200,12 +184,16 @@ nuance
 bidding
 gelled
 spewing
-patron
 depicted
 symmetry
 incorporate
 knob
-specter
 campanile
 comic
 intoxicating
+taboo
+vacancy
+bare
+specter
+sapphires
+bunk
