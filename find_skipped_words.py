@@ -1,8 +1,8 @@
 # 找到在添加到多墨时, 漏掉的单词
 
 if __name__ == '__main__':
-    in_file1 = '我的单词本/基本掌握/hard_words2.txt' # 原有单词表
-    in_file2 = '基本掌握2-全部(207).txt' # 导入多墨后的单词表
+    in_file1 = '我的单词本/未掌握/alfred_2023_1.txt' # 原有单词表
+    in_file2 = 'alfred_1-全部(235).txt' # 导入多墨后的单词表
 
     with open(in_file1,'r') as f:
         file1_words = set([word.strip().lower() for word in f.readlines() if len(word.strip())>0])
